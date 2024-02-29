@@ -8,7 +8,6 @@ module.exports = {
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:@typescript-eslint/recommended", // This includes recommended TypeScript rules
-    "plugin:prettier/recommended", // This includes recommended eslint-plugin-prettier rules
     "plugin:react-hooks/recommended",
     // "plugin:react/jsx-runtime",  // This disabe requirement for importing "React" in new React version 
   ],
