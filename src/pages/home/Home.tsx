@@ -1,5 +1,5 @@
-import { Link } from 'react-router-dom';
-import style from './home.module.scss';
+import { Link } from "react-router-dom";
+import style from "./home.module.scss";
 
 const Home: React.FC = () => {
   return (

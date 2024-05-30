@@ -1,8 +1,8 @@
-import style from './header.module.scss';
+import style from "./header.module.scss";
 
 function Header() {
   function handleClick() {
-    console.log('Click event');
+    console.log("Click event");
     return null;
   }
 
