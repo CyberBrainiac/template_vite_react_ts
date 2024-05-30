@@ -3,11 +3,12 @@ import {
   createRoutesFromElements,
   Route,
   RouterProvider,
-} from 'react-router-dom';
-import ErrorPage from './pages/errorPage/ErrorPage';
-import RootLayout from './components/layout/RootLayout';
-import Home from './pages/home/Home';
-import ThematicityIndex from './pages/thematIndex/ThematicityIndex';
+} from "react-router-dom";
+import ErrorPage from "./pages/errorPage/ErrorPage";
+import RootLayout from "./ui/layout/RootLayout";
+import Home from "./pages/home/Home";
+import ThematicityIndex from "./pages/thematIndex/ThematicityIndex";
+import React from "react";
 
 const App: React.FC = () => {
   const router = createBrowserRouter(

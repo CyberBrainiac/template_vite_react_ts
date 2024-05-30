@@ -9,12 +9,12 @@
     "paths": {
       "@/*": ["src/*"],
       "@pages/*": ["src/pages/*"],
-      "@components/*": ["src/components/*"],
-      "@containers/*": ["src/containers/*"],
-      "@image/*": ["src/assets/image/*"],
+      "@ui/*": ["src/ui/*"],
+      "@redux/*": ["src/redux/*"],
+      "@img/*": ["src/assets/img/*"],
       "@style/*": ["src/assets/style/*"],
       "@utils/*": ["src/utils/*"],
-      "@services/*": ["src/services/*"]
+      "@api/*": ["src/api/*"]
     },
 
     /* Bundler mode */
