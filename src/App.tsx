@@ -4,10 +4,10 @@ import {
   Route,
   RouterProvider,
 } from "react-router-dom";
-import ErrorPage from "./pages/errorPage/ErrorPage";
+import ErrorPage from "./pages/error-page/ErrorPage";
 import RootLayout from "./ui/layout/RootLayout";
 import Home from "./pages/home/Home";
-import ThematicityIndex from "./pages/thematIndex/ThematicityIndex";
+import ThematicityIndex from "./pages/themat-index/ThematicityIndex";
 import React from "react";
 
 const App: React.FC = () => {

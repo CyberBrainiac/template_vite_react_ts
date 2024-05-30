@@ -1,6 +1,6 @@
 import { ButtonLink } from "@/ui/buttons/Buttons";
 import style from "./thematicityIndex.module.scss";
-import InputFile from "./inputFile/InputFile";
+import InputFile from "./input-file/InputFile";
 import React, { useCallback } from "react";
 
 const ThematicityIndex: React.FC = () => {
